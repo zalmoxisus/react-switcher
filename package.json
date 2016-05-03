@@ -1,6 +1,6 @@
 {
   "name": "react-switcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stateless React switcher component.",
   "main": "lib/index.js",
   "files": [
@@ -43,7 +43,7 @@
     "rimraf": "^2.3.4",
     "webpack": "^1.11.0"
   },
-  "dependencies": {
-    "react": "^0.14.5"
+  "peerDependencies": {
+    "react": "^0.14.0 || ^15.0.0"
   }
 }
