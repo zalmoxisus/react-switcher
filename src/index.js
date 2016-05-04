@@ -15,7 +15,7 @@ const styles = {
     boxShadow: '1px 1px 1px #ccc',
     width: '25px',
     height: '24px',
-    left: '0',
+    left: '0px',
     borderRadius: '12px',
     background: 'white',
     position: 'relative',
